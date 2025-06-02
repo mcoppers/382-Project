@@ -29,7 +29,9 @@
             align-items: center;
         }
         .team-member img {
-            max-width: 150px;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
             border-radius: 8px;
             margin-right: 20px;
         }
