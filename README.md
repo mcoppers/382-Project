@@ -53,7 +53,7 @@
         </div>
 
         <div class="team-member">
-            <img src="bobby-axelrod.jpg" alt="Bobby Axelrod - CFO">
+            <img src="https://i0.wp.com/www.fanfunwithdamianlewis.com/wp-content/uploads/2016/10/cifonelli.jpg.png?ssl=1" alt="Bobby Axelrod - CFO">
             <div>
                 <h2>Bobby Axelrod - Chief Financial Officer</h2>
                 <p>Bobby Axelrod is an ambitious and results-driven executive who plays a critical role in securing funding and financial partnerships for Tekton Industries. With a sharp mind for investments and resource allocation, Bobby ensures that the company is well-positioned for sustainable growth and long-term success. His strategic vision and relentless determination make him an invaluable part of the leadership team.</p>
