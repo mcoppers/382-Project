@@ -47,7 +47,7 @@
 
     <main>
         <div class="team-member">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Bob_the_builder.jpg/250px-Bob_the_builder.jpg" alt="Bob - CEO">
+            <img src="https://www.constructionjobsireland.ie/wp-content/uploads/2024/01/carpentry-840x400.jpg" alt="Bob - CEO">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
                 <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous commercial building projects and even had his own show. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
@@ -69,6 +69,23 @@
                 <p>Emily Doe is a family-oriented leader who brings a deep personal connection to the construction world. After immigrating to the U.S. at a young age, she was inspired by her father’s success running his own construction company. Emily channels her passion into leveraging technology to improve operations and communication at Tekton. She loves what she does and is dedicated to driving innovation while honoring the industry’s roots.</p>
             </div>
         </div>
+
+        <div class="team-member">
+            <img src="https://media.istockphoto.com/id/146068519/photo/close-up-of-businesswoman-smiling-with-arms-crossed-against-white-background.jpg?s=612x612&w=0&k=20&c=CdJ_i0xtCLnIyhHpT_a3NXLp7hhADo_4U-IiEe_yvY0=" alt="Rosalie Leia - COO">
+            <div>
+                <h2>Rosalie Leia - Chief Operations Officer</h2>
+                <p>Rosalie Leia is passionate about driving the future of construction through innovation and sustainability. With a keen eye for optimizing workflows and implementing next-generation technologies, she ensures Tekton’s operations are efficient, agile, and scalable. Rosalie’s leadership helps bridge the gap between traditional methods and the future of smart construction, making her a cornerstone of our operational success.</p>
+            </div>
+        </div>
+
+        <div class="team-member">
+            <img src="https://static.wikia.nocookie.net/suits/images/a/a2/Character-Portal_S8_Harvey_Specter.jpg/revision/latest/smart/width/386/height/259?cb=20180731202657" alt="Harvey Specter - CLO">
+            <div>
+                <h2>Harvey Specter - Chief Legal Officer</h2>
+                <p>Harvey Specter brings razor-sharp legal insight and unmatched negotiation skills to Tekton. Known for his cunning and intelligence, Harvey ensures our operations are always within regulatory bounds while strategically defending our interests. His legal acumen and confidence help protect the company in high-stakes situations and foster a culture of accountability and compliance.</p>
+            </div>
+        </div>
+
     </main>
 </body>
 </html>
