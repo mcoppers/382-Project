@@ -47,7 +47,7 @@
 
     <main>
         <div class="team-member">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Bob_the_builder.jpg/250px-Bob_the_builder.jpg" alt="Bob - CEO">
+            <img src=https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Bob_the_builder.jpg/250px-Bob_the_builder.jpg>
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
                 <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous commercial building projects and even had his own show. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
@@ -79,7 +79,7 @@
         </div>
 
         <div class="team-member">
-            <img src="https://static.wikia.nocookie.net/suits/images/d/da/S8_Harvey_Specter.jpg/revision/latest?cb=20180731195449" alt="Harvey Specter - CLO">
+            <img src="https://people.com/thmb/EFHvx05zcQnnKZ-M_Mjhi_-jAhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(745x328:747x330)/Gabriel-Macht-suits-012925-3-c3b09d2fd4b54525907c886a434533bc.jpg" alt="Harvey Specter - CLO">
             <div>
                 <h2>Harvey Specter - Chief Legal Officer</h2>
                 <p>Harvey Specter brings razor-sharp legal insight and unmatched negotiation skills to Tekton. Known for his cunning and intelligence, Harvey ensures our operations are always within regulatory bounds while strategically defending our interests. His legal acumen and confidence help protect the company in high-stakes situations and foster a culture of accountability and compliance.</p>
