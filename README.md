@@ -49,18 +49,21 @@
             <img src="656ee712-0e50-497d-9ce6-c55b79b71067.png" alt="Bob - CEO">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
-                <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous successful commercial building projects and even had his own televised show. As CEO, Bob brings a deep understanding of the construction process, a desire to innovate, and a vision for  industry standards through technology-driven solutions.</p>
+                <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous  infrastructure and commercial building projects. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
             </div>
         </div>
 
         <div class="team-member">
-            <h2>John Doe - Chief Technology Officer</h2>
-            <p>John leads our technology division, overseeing the development of innovative digital solutions to streamline project management and logistics.</p>
+            <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Bobby_Axelrod_Billions.jpg" alt="Bobby Axelrod - CFO">
+            <div>
+                <h2>Bobby Axelrod - Chief Financial Officer</h2>
+                <p>Bobby brings an exceptional track record of financial leadership and strategic investment to Tekton. As CFO, he is fiercely ambitious in securing growth capital and building strong financial partnerships that support our expansion. His deep expertise in high-stakes finance, paired with an entrepreneurial mindset, makes him a driving force behind our fiscal success and long-term vision.</p>
+            </div>
         </div>
 
         <div class="team-member">
-            <h2>Emily Zhang - Chief Financial Officer</h2>
-            <p>Emily manages Tekton’s financial strategy, ensuring fiscal sustainability and responsible growth across all departments.</p>
+            <h2>Emily Zhang - Financial Strategist</h2>
+            <p>Emily supports Tekton’s financial planning and risk management. Her analytical precision and detail-oriented approach help ensure consistent performance across all projects and departments.</p>
         </div>
     </main>
 </body>
