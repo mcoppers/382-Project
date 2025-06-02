@@ -48,7 +48,7 @@
             <img src="656ee712-0e50-497d-9ce6-c55b79b71067.png" alt="Bob - CEO">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
-                <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous infrastructure and commercial building projects. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
+                <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous commercial building projects and even had his own show. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
             </div>
         </div>
 
