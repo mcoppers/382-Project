@@ -61,6 +61,7 @@
         </div>
 
         <div class="team-member">
+            <img src="https://media.istockphoto.com/id/1159560350/photo/young-businesswoman.jpg?s=612x612&w=0&k=20&c=5TKChg0H6oOGlztPYAsSzB5DatAdfQj1dfNpua3--pA=" alt="Emily Doe - CIO">
             <div>
                 <h2>Emily Doe - Chief Information Officer</h2>
                 <p>Emily Doe is a family-oriented leader who brings a deep personal connection to the construction world. After immigrating to the U.S. at a young age, she was inspired by her father’s success running his own construction company. Emily channels her passion into leveraging technology to improve operations and communication at Tekton. She loves what she does and is dedicated to driving innovation while honoring the industry’s roots.</p>
