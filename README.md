@@ -47,7 +47,7 @@
 
     <main>
         <div class="team-member">
-            <img src=https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Bob_the_builder.jpg/250px-Bob_the_builder.jpg>
+            <img src="https://m.media-amazon.com/images/S/pv-target-images/03125e3dba48c2b4fffa8ea3997759757a91d1d87e57239976ea8aee3cc25563._SX1080_FMjpg_.jpg" alt="Bob - CEO">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
                 <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous commercial building projects and even had his own show. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
