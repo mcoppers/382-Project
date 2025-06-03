@@ -108,7 +108,7 @@
                 <p><span class="name-highlight">Bob</span> is a seasoned construction professional with over 20 years of experience. Before founding Tekton Industries, he led numerous commercial projects and <a href="https://www.youtube.com/watch?v=Q_T8Rth2AO0" target="_blank">even had his own show</a>. As CEO, Bob brings innovation, leadership, and drive to elevate our industry standards.</p>
                 <p><a href="mailto:bob@tekton.com">Contact me</a></p>
                 <ol>
-                    <li>Founded Tekton</li>
+                    <li>Expanded the Family Business</li>
                     <li>Managed 100+ projects</li>
                 </ol>
                 <ul>
