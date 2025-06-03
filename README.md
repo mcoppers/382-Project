@@ -13,8 +13,18 @@
             background-position: center;
             background-attachment: fixed;
         }
-        body > *:first-child {
-            margin-top: 0 !important;
+        #download-btn {
+            position: fixed;
+            top: 100px;
+            left: 20px;
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 1000;
         }
         header {
             background-color: rgba(255, 255, 255, 0.85);
@@ -57,6 +67,10 @@
     </style>
 </head>
 <body>
+    <a id="download-btn" href="/mnt/data/Screenshot 2025-06-03 at 10.10.35 AM.png" download>
+        Check Out What's New!
+    </a>
+
     <header>
         <h1>Meet <span>our</span> Tekton Management Team</h1>
     </header>
