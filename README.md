@@ -4,7 +4,7 @@
     <title>Tekton - Our Team</title>
     <meta charset="UTF-8">
     <style>
-        body {
+        html, body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -13,13 +13,15 @@
             background-position: center;
             background-attachment: fixed;
         }
+        body > *:first-child {
+            margin-top: 0 !important;
+        }
         header {
             background-color: rgba(255, 255, 255, 0.85);
             color: black;
             padding: 20px;
             text-align: center;
             font-family: "Andale Mono", monospace;
-            margin-top: 0;
         }
         header h1 {
             font-weight: normal;
