@@ -18,7 +18,8 @@
             color: black;
             padding: 20px;
             text-align: center;
-            font-family: "Brush Script MT", cursive, sans-serif;
+            font-family: "Andale Mono", monospace;
+            margin-top: 0;
         }
         header h1 {
             font-weight: normal;
