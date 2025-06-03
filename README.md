@@ -105,7 +105,7 @@
             <img src="https://m.media-amazon.com/images/S/pv-target-images/03125e3dba48c2b4fffa8ea3997759757a91d1d87e57239976ea8aee3cc25563._SX1080_FMjpg_.jpg">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
-                <p><span class="name-highlight">Bob</span> is a seasoned construction professional with over 20 years of experience. Before founding Tekton Industries, he led numerous commercial projects and <a href="https://www.youtube.com/watch?v=Q_T8Rth2AO0" target="_blank">even had his own show</a>. As CEO, Bob brings innovation, leadership, and drive to elevate our industry standards.</p>
+                <p><span class="name-highlight">Bob</span> is a seasoned construction professional with over 20 years of experience. Before taking over Tekton Industries from his family, he led numerous commercial projects and <a href="https://www.youtube.com/watch?v=Q_T8Rth2AO0" target="_blank">even had his own show</a>. As CEO, Bob brings innovation, leadership, and drive to elevate our industry standards.</p>
                 <p><a href="mailto:bob@tekton.com">Contact me</a></p>
                 <ol>
                     <li>Expanded the Family Business</li>
