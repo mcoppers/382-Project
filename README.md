@@ -25,6 +25,7 @@
             font-weight: bold;
             cursor: pointer;
             z-index: 1000;
+            text-decoration: none;
         }
         header {
             background-color: rgba(255, 255, 255, 0.85);
@@ -67,7 +68,7 @@
     </style>
 </head>
 <body>
-    <a id="download-btn" href="/mnt/data/Screenshot 2025-06-03 at 10.10.35 AM.png" download>
+    <a id="download-btn" href="/mnt/data/Our Newest Building.pdf" download>
         Check Out What's New!
     </a>
 
