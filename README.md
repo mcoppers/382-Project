@@ -6,12 +6,15 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
             margin: 0;
             padding: 0;
+            background-image: url('https://www.explore.com/img/gallery/view-chicagos-skyline-from-an-underrated-destination-instead-of-this-tourist-trap/intro-1704400150.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
         }
         header {
-            background-color: #333;
+            background-color: rgba(51, 51, 51, 0.85);
             color: white;
             padding: 20px;
             text-align: center;
@@ -20,7 +23,7 @@
             padding: 20px;
         }
         .team-member {
-            background-color: white;
+            background-color: rgba(255, 255, 255, 0.95);
             padding: 15px;
             margin: 15px 0;
             border-radius: 8px;
@@ -47,7 +50,7 @@
 
     <main>
         <div class="team-member">
-            <img src="https://m.media-amazon.com/images/S/pv-target-images/03125e3dba48c2b4fffa8ea3997759757a91d1d87e57239976ea8aee3cc25563._SX1080_FMjpg_.jpg" alt="Bob - CEO">
+            <img src="https://m.media-amazon.com/images/S/pv-target-images/03125e3dba48c2b4fffa8ea3997759757a91d1d87e57239976ea8aee3cc25563._SX1080_FMjpg_.jpg">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
                 <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous commercial building projects and even had his own show. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
