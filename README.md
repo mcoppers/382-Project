@@ -14,10 +14,20 @@
             background-attachment: fixed;
         }
         header {
-            background-color: rgba(51, 51, 51, 0.85);
-            color: white;
+            background-color: rgba(255, 255, 255, 0.85);
+            color: black;
             padding: 20px;
             text-align: center;
+            font-family: "Brush Script MT", cursive, sans-serif;
+        }
+        header h1 {
+            font-weight: normal;
+        }
+        header h1 span {
+            text-transform: uppercase;
+            font-weight: bold;
+            text-decoration: underline;
+            font-style: italic;
         }
         main {
             padding: 20px;
@@ -45,7 +55,7 @@
 </head>
 <body>
     <header>
-        <h1>Meet the Tekton Management Team</h1>
+        <h1>Meet <span>our</span> Tekton Management Team</h1>
     </header>
 
     <main>
