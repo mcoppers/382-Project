@@ -45,6 +45,7 @@
         }
         main {
             padding: 20px;
+            color: #000000;
         }
         .team-member {
             background-color: rgba(255, 255, 255, 0.95);
@@ -54,6 +55,7 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             display: flex;
             align-items: center;
+            font-family: 'Georgia', serif;
         }
         .team-member img {
             width: 150px;
@@ -64,11 +66,26 @@
         }
         .team-member h2 {
             margin-top: 0;
+            font-style: italic;
+        }
+        .team-member p {
+            font-size: 14px;
+            color: #333333;
+        }
+        ul, ol {
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: rgba(255, 255, 255, 0.85);
+            font-size: 12px;
         }
     </style>
 </head>
 <body>
-    <a id="download-btn" href="Our Newest Building.pdf" download>
+    <a id="download-btn" href="/mnt/data/Our Newest Building.pdf" download>
         Check Out What's New!
     </a>
 
@@ -81,7 +98,18 @@
             <img src="https://m.media-amazon.com/images/S/pv-target-images/03125e3dba48c2b4fffa8ea3997759757a91d1d87e57239976ea8aee3cc25563._SX1080_FMjpg_.jpg">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
-                <p>Bob is a seasoned construction professional with over 20 years of hands-on experience in the field. Before founding Tekton Industries, he led numerous commercial building projects and even had his own show. As CEO, Bob brings a deep understanding of the construction process, a passion for innovation, and a vision for elevating industry standards through technology-driven solutions.</p>
+                <p><b><u><i>Bob</i></u></b> is a seasoned construction professional with <span style="color:red">over 20 years</span> of experience. Before founding Tekton Industries, he led numerous commercial projects and even had his own show. As CEO, Bob brings innovation, leadership, and drive to elevate our <span style="color:blue">industry standards</span>.</p>
+                <p><a href="mailto:bob@tekton.com">Contact me</a></p>
+                <ol>
+                    <li>Founded Tekton</li>
+                    <li>Managed 100+ projects</li>
+                </ol>
+                <ul>
+                    <li>Leader</li>
+                    <li>Innovator</li>
+                    <li>Mentor</li>
+                </ul>
+                <a href="/mnt/data/Our Newest Building.pdf" download>Download company flyer</a>
             </div>
         </div>
 
@@ -116,7 +144,12 @@
                 <p>Harvey Specter brings razor-sharp legal insight and unmatched negotiation skills to Tekton. Known for his cunning and intelligence, Harvey ensures our operations are always within regulatory bounds while strategically defending our interests. His legal acumen and confidence help protect the company in high-stakes situations and foster a culture of accountability and compliance.</p>
             </div>
         </div>
-
     </main>
+
+    <footer>
+        <script>
+            document.write("Page last modified: " + document.lastModified);
+        </script>
+    </footer>
 </body>
 </html>
