@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <style>
         html, body {
-            font-family: Arial, sans-serif;
+            font-family: "Times New Roman", Times, serif;
             margin: 0;
             padding: 0;
             background-image: url('https://www.explore.com/img/gallery/view-chicagos-skyline-from-an-underrated-destination-instead-of-this-tourist-trap/intro-1704400150.jpg');
@@ -32,7 +32,7 @@
             color: black;
             padding: 20px;
             text-align: center;
-            font-family: "Andale Mono", monospace;
+            font-family: "Georgia", monospace;
         }
         header h1 {
             font-weight: normal;
@@ -55,7 +55,7 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             display: flex;
             align-items: center;
-            font-family: 'Georgia', serif;
+            font-family: Times New Roman;
         }
         .team-member img {
             width: 150px;
