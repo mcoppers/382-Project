@@ -92,9 +92,9 @@
     </style>
 </head>
 <body>
-    <a id="download-btn" href="/mnt/data/Our Newest Building.pdf" download>
-        Check Out What's New!
-    </a>
+    <a id="download-btn" href="Our Newest Building.pdf" download>
+    Check Out What's New!
+</a>
 
     <header>
         <h1>Meet <span>our</span> Tekton Management Team</h1>
