@@ -32,7 +32,7 @@
             color: black;
             padding: 20px;
             text-align: center;
-            font-family: "Georgia", monospace;
+            font-family: "Georgia", serif;
         }
         header h1 {
             font-weight: normal;
@@ -55,7 +55,7 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             display: flex;
             align-items: center;
-            font-family: Times New Roman;
+            font-family: "Times New Roman", Times, serif;
         }
         .team-member img {
             width: 150px;
@@ -67,6 +67,7 @@
         .team-member h2 {
             margin-top: 0;
             font-style: italic;
+            font-family: "Georgia", serif;
         }
         .team-member p {
             font-size: 12px;
@@ -93,7 +94,7 @@
 </head>
 <body>
     <a id="download-btn" href="Our Newest Building.pdf" download>
-    Check Out What's New!
+        Check Out What's New!
     </a>
 
     <header>
@@ -101,7 +102,7 @@
     </header>
 
     <main>
-        <div class="team-member">
+         <div class="team-member">
             <img src="https://m.media-amazon.com/images/S/pv-target-images/03125e3dba48c2b4fffa8ea3997759757a91d1d87e57239976ea8aee3cc25563._SX1080_FMjpg_.jpg">
             <div>
                 <h2>Bob - Chief Executive Officer</h2>
